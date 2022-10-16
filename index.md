@@ -4,7 +4,7 @@
 
 ### Games
 
-[Pet Shop Clicker](<a href="https://mirna7.itch.io/pet-shop-clicker"</a>)
+[Pet Shop Clicker](https://mirna7.itch.io/pet-shop-clicker/)
 <img src="/images/PetShop.png?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/Panacea.jpeg?raw=true"/>
 
 ---
-[Game Trivia](http://example.com/)
+[Game Trivia]()
 <img src="images/GameTrivia.jpg?raw=true"/>
 
 ---
