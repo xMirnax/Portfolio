@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Games
 
 [Pet Shop Clicker](<a href="https://mirna7.itch.io/pet-shop-clicker"</a>)
 <img src="/images/PetShop.png?raw=true"/>
@@ -12,18 +12,16 @@
 <img src="images/Panacea.jpeg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Game Trivia](http://example.com/)
+<img src="images/GameTrivia.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Academic Writing
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Non-Fungible Tokens: Might Learning About
+Them Be Necessary?](https://ieeexplore.ieee.org/document/9803425/)
+
 
 ---
 
