@@ -1,4 +1,3 @@
-<body style="background-color:powderblue;">
 ## Portfolio
 
 ---
@@ -30,4 +29,3 @@ Them Be Necessary?](https://ieeexplore.ieee.org/document/9803425/)
 
 
 ---
-</body>
