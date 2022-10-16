@@ -9,7 +9,7 @@
 
 ---
 [Panacea](/pdf/sample_presentation.pdf)
-<img src="images/Panacea.jpg?raw=true"/>
+<img src="images/Panacea.jpeg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
