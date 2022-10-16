@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Pet Shop Clicker](/sample_page)
+[Pet Shop Clicker](/https://mirna7.itch.io/pet-shop-clicker)
 <img src="/images/PetShop.png?raw=true"/>
 
 ---
-[Panacea](/pdf/sample_presentation.pdf)
+[Panacea](/https://nonygl.itch.io/panacea)
 <img src="images/Panacea.jpeg?raw=true"/>
 
 ---
