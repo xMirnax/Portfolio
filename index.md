@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Pet Shop Clicker](/sample_page)
 <img src="/images/PetShop.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Panacea](/pdf/sample_presentation.pdf)
 <img src="images/Panacea.jpg?raw=true"/>
 
 ---
