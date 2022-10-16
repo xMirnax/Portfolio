@@ -4,11 +4,11 @@
 
 ### Category Name 1 
 
-[Pet Shop Clicker](/https://mirna7.itch.io/pet-shop-clicker)
+[Pet Shop Clicker](<a href="https://mirna7.itch.io/pet-shop-clicker"</a>)
 <img src="/images/PetShop.png?raw=true"/>
 
 ---
-[Panacea](/https://nonygl.itch.io/panacea)
+[Panacea](https://nonygl.itch.io/panacea/)
 <img src="images/Panacea.jpeg?raw=true"/>
 
 ---
