@@ -12,7 +12,7 @@
 <img src="images/Panacea.jpeg?raw=true"/>
 
 ---
-[Game Trivia](https://play.google.com/store/apps/details?id=com.GamePinataStudios.GamingTrivia/)
+[Game Trivia](https://play.google.com/store/apps/details?id=com.GamePinataStudios.GamingTrivia)
 <img src="images/GameTrivia.jpg?raw=true"/>
 
 ---
