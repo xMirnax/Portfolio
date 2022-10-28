@@ -20,6 +20,11 @@
 [Farm VR](https://mirna7.itch.io/farm-vr/)
 <img src="images/FarmVR.png?raw=true"/>
 
+---
+
+[Crypto Slicer](https://mirna7.itch.io/crypto-slicer/)
+<img src="images/CryptoBanner.png?raw=true"/>
+
 
 ### Academic Writing
 
