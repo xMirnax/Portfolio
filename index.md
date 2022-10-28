@@ -26,7 +26,7 @@
 <img src="images/CryptoBanner.png?raw=true"/>
 
 Trigger Shooter 
-In development multiplayer shooter
+(In development multiplayer shooter)
 <img src="images/TriggerShooter.png?raw=true"/>
 
 ### Academic Writing
