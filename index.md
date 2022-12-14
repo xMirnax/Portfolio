@@ -25,6 +25,13 @@
 [Crypto Slicer](https://mirna7.itch.io/crypto-slicer/)
 <img src="images/CryptoBanner.png?raw=true"/>
 
+---
+
+[Burger Flipper 3D](https://mirna7.itch.io/burger-flipper-3d)
+<img src="images/BurgerFlipper.png?raw=true"/>
+
+---
+
 Trigger Shooter 
 (In development multiplayer shooter)
 <img src="images/TriggerShooter.png?raw=true"/>
