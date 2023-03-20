@@ -32,9 +32,11 @@
 
 ---
 
-Trigger Shooter 
-(In development multiplayer shooter)
+[Trigger Shooter](https://mirna7.itch.io/trigger-shoot)
 <img src="images/TriggerShooter.png?raw=true"/>
+
+---
+
 
 ### Academic Writing
 
