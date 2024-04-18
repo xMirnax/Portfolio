@@ -38,17 +38,17 @@
 ---
 
 [Squirrel's Shop Adventure](https://nexusbittech.itch.io/squirrels-shop-adventure)
-<img src="images/CryptoBanner.png?raw=true"/>
+<img src="images/Squirrel's Shop Adventure.png?raw=true"/>
 
 ---
 
 [Eggstinction](https://nexusbittech.itch.io/eggstinction)
-<img src="images/BurgerFlipper.png?raw=true"/>
+<img src="images/Eggstinction.jpg?raw=true"/>
 
 ---
 
 [Animals in Ecosystem](https://nexusbittech.itch.io/animals-in-ecosystem)
-<img src="images/TriggerShooter.png?raw=true"/>
+<img src="images/AnimalsInEcosystem.jpg?raw=true"/>
 
 ---
 
